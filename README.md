@@ -1,11 +1,10 @@
-# Hi there! 👋 I'm [Mina Borhani]
+# Hi there! 👋 I'm Mina Borhani
 
 I'm a pharmacist with a passion for learning and technology. Currently, I'm on an exciting journey to master the world of programming, focusing on Python. I'm intrigued by the potential of using coding skills to enhance pharmaceutical practices and research.
 
 ## What I'm Up To
 
-🌱 I'm currently learning Python and exploring its applications in pharmacy.
-📚 I'm studying data analysis and visualization techniques to extract insights from pharmaceutical data.
+📚 I'm studying Machine learning and deep learning to extract insights from pharmaceutical data.
 🔍 I'm researching how Python can contribute to medical research and healthcare solutions.
 
 ## Get in Touch
